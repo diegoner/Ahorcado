@@ -12,6 +12,7 @@
 		E30C99321F95E4B200BB721A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E30C99301F95E4B200BB721A /* Main.storyboard */; };
 		E30C99341F95E4B200BB721A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E30C99331F95E4B200BB721A /* Assets.xcassets */; };
 		E30C99371F95E4B200BB721A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E30C99351F95E4B200BB721A /* LaunchScreen.storyboard */; };
+		E383BA0A1F95E761007E93A4 /* ahorcado in Resources */ = {isa = PBXBuildFile; fileRef = E383BA091F95E761007E93A4 /* ahorcado */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		E30C99331F95E4B200BB721A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E30C99361F95E4B200BB721A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E30C99381F95E4B200BB721A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E383BA091F95E761007E93A4 /* ahorcado */ = {isa = PBXFileReference; lastKnownFileType = folder; path = ahorcado; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 		E30C992B1F95E4B200BB721A /* Ahorcado */ = {
 			isa = PBXGroup;
 			children = (
+				E383BA091F95E761007E93A4 /* ahorcado */,
 				E30C992C1F95E4B200BB721A /* AppDelegate.swift */,
 				E30C992E1F95E4B200BB721A /* ViewController.swift */,
 				E30C99301F95E4B200BB721A /* Main.storyboard */,
@@ -123,6 +126,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E383BA0A1F95E761007E93A4 /* ahorcado in Resources */,
 				E30C99371F95E4B200BB721A /* LaunchScreen.storyboard in Resources */,
 				E30C99341F95E4B200BB721A /* Assets.xcassets in Resources */,
 				E30C99321F95E4B200BB721A /* Main.storyboard in Resources */,
@@ -299,6 +303,7 @@
 				E30C993D1F95E4B200BB721A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
